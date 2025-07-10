@@ -29,5 +29,5 @@ python app.py
 - Go to frontend/index.html in Chrome
 - Try searching for "Product 1", "Product 25", etc.
 
-![image alt]()
+![image alt](https://github.com/SamruddhSarode/ecommerce-chatbot/blob/229b8b3238eca5a98deffeb6fc24ba9c662e38f2/image1..png)
 
